@@ -1,4 +1,4 @@
-package com.beta.replyservice;
+package com.beta;
 
 import org.junit.jupiter.api.Test;
 
